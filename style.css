@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+}
+
+canvas {
+  position: absolute;
+}
+
+.main {
+  width: 100vw;
+  height: 100%;
+  display: block;
+}
+
+.video {
+  background-color: white;
+  padding: 5px;
+  width: 730px;
+  height: 550px;
+  margin: 20px;
+}
+
+.happystatus {
+  color: black;
+  font-family: sans-serif;
+}
